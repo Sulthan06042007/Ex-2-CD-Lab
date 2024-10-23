@@ -1,6 +1,6 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
-## NAME:N.NAVYA SREE
-## ROLL.NO: 212223040138
+## NAME:MOHAMED SULTHAN A
+## ROLL.NO: 212223230125
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
